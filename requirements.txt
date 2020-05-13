@@ -1,5 +1,3 @@
 pickle-mixin
 flask_cors
 Flask
-tensorflow-serving-api
-tensorflow
